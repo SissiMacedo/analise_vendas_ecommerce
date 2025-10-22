@@ -60,3 +60,6 @@ Geração de DRE automatizada com base nas vendas
 
 Thaysse Macedo
 Profissional da área de Análise de Dados e estudante de Análise e Desenvolvimento de Sistemas.
+
+📄 Fonte de dados
+https://www.kaggle.com/datasets/carrie1/ecommerce-data
